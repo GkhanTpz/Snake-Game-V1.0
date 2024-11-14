@@ -46,8 +46,9 @@ This is the main class that controls the game logic and display.
 - If the snake collides with its own body, the game ends.
 - Each time the snake eats an apple, it grows, and a new apple is placed on the grid.
 
+---
+
 
 ## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
----
