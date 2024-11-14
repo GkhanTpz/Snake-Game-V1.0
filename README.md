@@ -1,5 +1,3 @@
----
-
 # Snake Game in Python
 
 This is a simple Snake game implemented in Python. The goal of the game is to control the snake, collect apples, and grow the snake's length without hitting the snake's body. The snake moves in a grid, and each step extends its body by one unit. If the snake eats an apple, it grows, and the game continues until the snake crashes into itself.
@@ -47,7 +45,6 @@ This is the main class that controls the game logic and display.
 - Each time the snake eats an apple, it grows, and a new apple is placed on the grid.
 
 ---
-
 
 ## 📝 License
 
